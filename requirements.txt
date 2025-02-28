@@ -2,3 +2,5 @@ streamlit
 pandas
 numpy
 pdfplumber
+collections
+re
